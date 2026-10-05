@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sangamesh R 👋
 
-<!--
-**Sangamesh-Ravoor/Sangamesh-Ravoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Engineering Student | Aspiring Backend Developer | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an engineering student passionate about learning software development, building projects, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 3rd Year Engineering Student
+- 💻 Currently learning **Python, JavaScript & Backend Development**
+- 🌱 Improving my **Data Structures & Algorithms**
+- 🚀 Interested in **Backend Development & Full-Stack Development**
+- 🧠 Learning by building projects and solving coding problems
+- 🎯 Goal: Become a skilled Software Developer and crack a good placement
+
+## 🛠️ Technologies I'm Learning
+
+### Languages
+- 🐍 Python
+- ☕ C/C++
+- 🟨 JavaScript
+
+### Web Development
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔧 Node.js
+
+### Currently Learning
+- 🗄️ Databases & SQL
+- 🔌 REST APIs
+- 🧩 Data Structures & Algorithms
+- 🔐 Backend Development
+- 🌐 Git & GitHub
+
+## 📚 My Learning Journey
+
+```text
+Programming Basics
+       ↓
+Python / JavaScript
+       ↓
+Data Structures & Algorithms
+       ↓
+Backend Development
+       ↓
+Projects
+       ↓
+Full-Stack Development
+       ↓
+Software Developer 🚀
